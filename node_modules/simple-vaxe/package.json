@@ -1,0 +1,27 @@
+{
+  "name": "simple-vaxe",
+  "version": "1.0.0",
+  "description": "A simpler version of the Vaxe npm package",
+  "main": "./lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zerealone/simple-vaxe.git"
+  },
+  "keywords": [
+    "vaxe",
+    "simple",
+    "simple-vaxe"
+  ],
+  "author": "ze-real-one",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zerealone/simple-vaxe/issues"
+  },
+  "homepage": "https://github.com/zerealone/simple-vaxe#readme"
+}

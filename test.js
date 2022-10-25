@@ -4,10 +4,7 @@ var data =
 {
     "/":{
         content: "Hello World!",
-        console: ""
-    }, 
-    "/hi": {
-        content: "hi there ;)"
+        console: "The IP is : $ip (ipv6) \nThe path is: $path"
     }
 };
 
